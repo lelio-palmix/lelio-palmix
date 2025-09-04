@@ -1,16 +1,13 @@
-## Hi there 👋
-
-<!--
-**lelio-palmix/lelio-palmix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📚 Master’s degree student in **Cybersecurity Engineering** at *Polytechnic of Turin*  
+- 🎓 Bachelor’s degree in **Computer Science** from *University of Molise*  
+- 🌐 Passionate about **networks**, **security**  
+- 💻 Also deeply interested in **software development**, especially **backend development**  
+- ❤️ Favorite technologies:  
+  - 🖥️ **C**  
+  - ☕ **Java**  
+  - 🚀 **Spring Boot**  
+  - 🐍 **Python**
+  - 🐧 **Linux** 
+  - 🐳 **Docker**  
+  - 🌱 **Git**
+  - 📱 **Flutter**
